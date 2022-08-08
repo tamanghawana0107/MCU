@@ -1,0 +1,9 @@
+ORG  0000h
+MOV  A,#00h
+MOV R0,#01h
+MOV R1,#02h
+MOV R2,#03h
+MOV R3,#04h
+MOV R4,#05h
+MOV R5,#06h
+END

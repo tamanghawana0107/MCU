@@ -1,0 +1,6 @@
+ORG 0000h
+MOV PSW,#00h
+MOV A,#15h
+ADD A,#20h
+MOV 00h,A
+END
