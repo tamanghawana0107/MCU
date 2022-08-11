@@ -1,0 +1,7 @@
+;Subtract with carry
+ORG 0000h
+MOV PSW,#10h
+MOV R0,#8H
+MOV R1,#3H
+SUBB R0,R1;Subtracting the data of R1 and R2
+END
