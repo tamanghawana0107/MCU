@@ -1,0 +1,10 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 08/22/2022
+A8DA9696EC58F1CD3AF94B784219FD3E "LOOP.asm" 
+0 2 0 116 85
+0 3 2 123 10
+0 4 4 122 70
+0 5 6 244
+0 6 7 218 253
+0 7 9 219 249
